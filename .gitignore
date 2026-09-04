@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+*.log
+
+# Node / Next (also covered by web/.gitignore)
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Editor
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
